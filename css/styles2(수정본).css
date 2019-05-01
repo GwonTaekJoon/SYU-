@@ -1,0 +1,184 @@
+html{
+ 
+ padding-left:8%;
+ padding-right:8%;
+ background-color: rgba(0,0,0,0.6); 
+ background-image: url(../배경화면.jpg);
+ background-blend-mode: multiply;
+ background-size:cover;
+
+}
+#likelion{
+    color: rgb(255, 137, 2);
+    font-family: 'Oswald', sans-serif;
+    font-size: 70px;
+    display:inline-block;
+    
+    
+}
+#likelion2
+{
+    display:inline-block;
+    font-family: 'Noto Sans KR', sans-serif;
+    color: orange;
+    font-size: 70px;
+}
+#name{
+
+    color: white;
+    font-size: 30px;
+    display:inline-block;
+}
+#intro{
+color:rgba(201, 199, 199, 0.603);
+font-size: 30px;
+
+display: inline-block;
+
+
+}
+#intro2{
+
+    color:rgb(255, 255, 255);
+    font-size: 30px;
+    display: inline-block;
+    
+    
+}
+#introductionofmyidea
+{
+
+    text-align: center;
+    
+}
+
+
+
+hr{
+
+    color: rgb(255, 137, 2);
+    border-color: rgb(255,137,2);
+    background-color : rgb(255, 137, 2);
+
+
+}
+
+.logo{
+       width:50px;  display:inline-block;
+       
+
+       
+
+    
+        
+    
+
+}
+.logo img{
+    border:1px solid orange;
+    
+    width:50px;
+}
+#syulogo
+{
+  display:inline-block;
+  
+
+
+}
+#introduction
+{
+
+    color:rgba(201, 199, 199, 0.603);
+    font-size: 30px;
+    display:inline-block;
+    font-family: 'Do Hyeon', sans-serif;
+}
+#department
+{color:rgba(201, 199, 199, 0.603);
+    font-size: 30px;
+    display:inline-block;
+    margin-left:20%;
+    font-family: 'Do Hyeon', sans-serif;
+
+}
+
+#list li{
+
+    display:inline-block;
+}
+li{
+    display:inline-block;
+    color:white;
+    text-decoration:none;
+    font-size:30px;
+    font-family: 'Do Hyeon', sans-serif;
+}
+#list:after{
+    content:''; display:inline-block;
+    width:100%
+}
+#list{
+    text-align:justify;
+}
+
+
+
+#click{
+    
+
+    color: rgba(0, 0, 0, 0);
+    font-size: 50px;
+    margin-left: 50%;
+
+
+}
+li:hover{
+
+    font-size: 41px;
+    
+}
+
+#line{
+    border-left-width: 5px;
+   border-left-color: orange;
+   border-left-style: solid;
+   padding-left: 5px;
+   
+}
+#font{
+    text-align: center;
+    font-family: 'Jua', sans-serif;
+}
+#sponsored{
+
+    color:white;
+    font-size: 45px;
+}
+
+#alogo{
+display: inline-block;
+
+}
+#glogo{
+display:inline-block;
+}
+
+#sponsorlist li{
+
+    color:rgba(201, 199, 199, 0.603);
+    font-size:30px;
+}
+
+footer{
+
+    background-color:black;
+}
+
+#sponsorlist>#line2{
+
+    border-left-width: 5px;
+   border-left-color:rgba(201, 199, 199, 0.603);
+   border-left-style: solid;
+   padding-left: 5px;
+}
